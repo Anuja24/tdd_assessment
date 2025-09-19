@@ -28,6 +28,8 @@ class StringCalculator
   end
 end
 
-cal = StringCalculator.new
-puts cal.add("1,2,4") # => 7
+# uncomment the code to run the code
+# cal = StringCalculator.new
+# puts cal.add("1,2,4") # => 7
+
 
